@@ -9,7 +9,7 @@ or
 # Create project:
 1. `ng new mean`
 2. `ng build` -> Create `dist` file
-3. `ng serve` | `npm star` -> Test WebApp
+3. `ng serve` | `npm star` -> Test running WebApp
 
 # Create Server & copy files
 1. server.js
