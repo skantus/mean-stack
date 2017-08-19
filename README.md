@@ -17,8 +17,9 @@ or
 
 # Mongodb
 1. run server app (new terminal): `nodemon server`
-2. Start db (new terminal): `mongod`
-3. Create local db (new terminal): `use meandb`
-4. Check db created: `show dbs`
-5. Insert data: `db.users.insert({"name":"John Doe"})`
-6. Show data: `db.users.find().pretty()`
+2. Start mongo server (new terminal): `mongod`
+3. Start db (new terminal): `mongo`
+4. Create local db (new terminal): `use meandb`
+5. Check db created: `show dbs`
+6. Insert data: `db.users.insert({"name":"John Doe"})`
+7. Show data: `db.users.find().pretty()`
