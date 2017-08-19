@@ -18,7 +18,7 @@
 - Finally...
 
 # Mongodb
-1. run server app (new terminal): `nodemon server`
+1. run server app (new terminal): `node | nodemon server`
 2. Start mongo server (new terminal): `mongod`
 3. Start db (new terminal): `mongo`
 4. Create local db (new terminal): `use meandb`
