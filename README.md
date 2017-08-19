@@ -2,13 +2,13 @@
 1. git clone https://github.com/skantus/mean-stack.git
 2. cd mean-stack
 3. npm install
-4. -> follow #Mongodb steps.
+4. -> follow #Mongodb steps
 
 - or
 
 # Create project:
 1. `ng new mean`
-2. `ng build` -> Create `dist` file
+2. `ng build` -> Create `dist` file to make modifications in the Front
 3. `ng serve` | `npm star` -> Test running WebApp
 
 # Create Server & copy files
