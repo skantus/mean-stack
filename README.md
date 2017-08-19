@@ -2,7 +2,7 @@
 1. git clone https://github.com/skantus/mean-stack.git
 2. cd mean-stack
 3. npm install
-4. npm start
+4. -> follow #Mongodb steps.
 
 or
 
