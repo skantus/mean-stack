@@ -1,9 +1,17 @@
+# Clone project:
+1. git clone https://github.com/skantus/mean-stack.git
+2. cd mean-stack
+3. npm install
+4. npm start
+
+or
+
 # Create project:
 1. `ng new mean`
 2. `ng build` -> Create `dist` file
 3. `ng serve` | `npm star` -> Test WebApp
 
-# Create Server
+# Create Server & copy files
 1. server.js
 2. create server/routes/api.js
 
