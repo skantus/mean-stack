@@ -60,7 +60,7 @@ var AppComponent = (function () {
     function AppComponent(_dataService) {
         var _this = this;
         this._dataService = _dataService;
-        this.title = 'app';
+        this.title = 'MongoDB, ExpressJS, Angular4, NodeJS.';
         this._dataService.getUsers()
             .subscribe(function (res) { return _this.users = res; });
     }

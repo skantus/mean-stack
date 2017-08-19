@@ -7,7 +7,7 @@ import { DataService } from './data.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'MongoDB, ExpressJS, Angular4, NodeJS.';
 
   users: Array<any>;
 
