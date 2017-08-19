@@ -4,7 +4,7 @@
 3. npm install
 4. -> follow #Mongodb steps.
 
-or
+- or
 
 # Create project:
 1. `ng new mean`
@@ -14,6 +14,8 @@ or
 # Create Server & copy files
 1. server.js
 2. create server/routes/api.js
+
+- Finally...
 
 # Mongodb
 1. run server app (new terminal): `nodemon server`
